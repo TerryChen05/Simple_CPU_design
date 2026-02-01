@@ -1,0 +1,19 @@
+# quartus build folders
+db/
+incremental_db/
+output_files/
+simulation/
+
+# temp files
+*.temp
+
+# backups
+*.bak
+
+# source files
+!*.qpf
+!*.qsf
+!*.bdf
+!*.bsf
+!*.vhd
+!*.vwf
