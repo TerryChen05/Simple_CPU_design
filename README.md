@@ -149,8 +149,6 @@ the student number output is not used.
 <details>
 <summary><strong>Click to expand for details</strong></summary>
   
-<img width="253" height="152" alt="image" src="https://github.com/user-attachments/assets/19af26dd-dac7-4104-b919-3bda8a354672" />
-
 | State # | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Student # Output** | 0 | 1 | 2 | 3 | 6 | 1 | 4 | 8 |
