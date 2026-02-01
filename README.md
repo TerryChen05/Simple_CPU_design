@@ -176,7 +176,7 @@ The foundational unit handling basic math and bitwise logic.
 - **Logic:** `AND`, `OR`, `XOR`, `NAND`, `NOR`, `NOT`
 - **Output:** Pure 8-bit result.
 
-<details>
+<details open>
 <summary><strong>Click to expand for the ALU1 function table</strong></summary>
 
 | Function # | Opcode | Function | Operation |
@@ -203,7 +203,7 @@ This unit introduces more complex bit manipulation.
 - **Comparison:** `Max(A, B)` returns the larger of two values.
 - **Conditional Swaps:** Swapping upper and lower nibbles (4-bit chunks).
 
-<details>
+<details open>
 <summary><strong>Click to expand for the ALU2 function table</strong></summary>
 
 | Function # | Opcode | Operation | Description |
@@ -227,7 +227,7 @@ A specialized unit designed for flag checking rather than raw calculation.
 - **Parity Check:** Analyzes a Student ID input to determine Even/Odd status.
 - **Output:** Returns specific hex codes (`0xE` for even, `0xF` for odd).
 
-<details>
+<details open>
 <summary><strong>Click to expand for the ALU3 function table</strong></summary>
 
 | Function # | Opcode | Student # Digit | Function |
